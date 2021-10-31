@@ -1,0 +1,5 @@
+class E{
+	for (int i=0; arr[kk]<10; i++)
+		cout<<a[i];
+	bool t = true;
+}
